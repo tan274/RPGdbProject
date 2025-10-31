@@ -7,18 +7,15 @@ The database was hosted on **Google Cloud SQL (MySQL)** and the GUI was made wit
 
 ## What it does  
 - Store RPG data (players, characters, items) in a cloud-hosted MySQL database  
-- GUI supports CRUD operations (create, read, update, delete)  
-- Extra queries include:  
-  - Top 5 players with the most points  
-  - Show a character’s stats  
-  - Look up an item’s attributes  
+- GUI supports CRUD operations (create, read, update, delete)
+- Custom queries such as top five monsters with the most drops
 
 ---
 
 ## My role  
 - Set up and migrated the database to Google Cloud SQL  
 - Added indexes to speed up queries on large tables  
-- Built specialized queries in the GUI  
+- Added a few specialized queries in the GUI  
 - Helped coordinate team integration  
 
 ---
